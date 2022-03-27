@@ -1,4 +1,4 @@
-name: F:\Ineuron\Deep Learning\CNN-MLFlow\CNN-MLFlow\env
+name: MLflow-CNN
 channels:
   - defaults
 dependencies:
